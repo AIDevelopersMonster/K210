@@ -32,3 +32,40 @@
 29. [#29 K210 — Обучение и запуск собственной AI-модели (CanMV IDE)](https://youtu.be/nSMJZauP-R0)
 
 
+
+## 🎥 K210 Video Series (CanMV / MicroPython / AI)
+
+1. [#1 K210 — Introduction to the K210 Module | Part 1 — Hardware Platform](https://youtu.be/x4t19K5HASQ)
+2. [#2 K210 🔧 Getting Started with the K210 Platform and Vision Module](https://youtu.be/i3s_Jki1TSk)
+3. [#3 K210 📌 Installing CH340 Driver and Running UartAssist](https://youtu.be/CmtEZkl_jP0)
+4. [#4 K210 — Installing and Exploring the CanMV IDE](https://youtu.be/we9bRP0P50Q)
+5. [#5 K210 — Flashing Factory Firmware (CanMV) | MicroPython | Full Chip Erase](https://youtu.be/II-qpn8Qevc)
+6. [#6 K210 🎥 Creating and Connecting a Custom Python Library (CanMV IDE)](https://youtu.be/mtm11CkUgHs)
+7. [#7 K210 — MicroPython API and CanMV API Documentation Overview](https://youtu.be/o73ozsbXQoc)
+8. [#8 K210 — Drawing Graphics in CanMV (MicroPython)](https://youtu.be/yNTYGvTKKsg)
+9. [#9 K210 — Button and Click Events in LVGL | MicroPython](https://youtu.be/GBq3avNSDfI)
+10. [#10 K210 + LVGL — Slider Widget: Events and Value Handling](https://youtu.be/72gZDT8VKSY)
+11. [#11 K210 — Graphics Animation in LVGL (MicroPython)](https://youtu.be/KR-nuysvl3w)
+12. [#12 K210 — Multi-Page GUI with LVGL (TabView, Pages)](https://youtu.be/4vitXoE9UQY)
+13. [#13 K210 — Practical Task: Stopwatch and Graphics in LVGL](https://youtu.be/GOE7IuE4zX8)
+14. [#14 K210 — Color Recognition (LAB) and Object Highlighting](https://youtu.be/PTXeNwYMwAw)
+15. [#15 K210 — Barcode Recognition in CanMV IDE](https://youtu.be/IvtK7ToTiwg)
+16. [#16 K210 — QR Code Recognition (MicroPython)](https://youtu.be/Ic8LQBIGcU0)
+17. [#17 K210 — AprilTag Detection using CanMV IDE](https://youtu.be/KX_H9BTwwDg)
+18. [#18 K210 — Face Detection (KPU + YOLO)](https://youtu.be/7A47voJbZ48)
+19. [#19 K210 — Facial Landmark Detection (KPU + Camera + LCD)](https://youtu.be/xOqk5R_goO4)
+20. [#20 K210 — Mask Detection on K210](https://youtu.be/QZAlQaP_SaU)
+21. [#21 K210 — Face Recognition](https://youtu.be/MCuT6dqnccY)
+22. [#22 K210 — Object Detection](https://youtu.be/wNhbrnb2Fng)
+23. [#23 K210 — Object Classification (Self-Learning Classification)](https://youtu.be/JY0npw8s9ic)
+24. [#24 K210 — Digit Recognition (MNIST)](https://youtu.be/Fp8AReyozFo)
+25. [#25 K210 — Multi-Color Recognition (LAB Color Space)](https://youtu.be/EATwhbczIr8)
+26. [#26 K210 🔍 Human Body Detection (YOLO)](https://youtu.be/cx0QV3BdRIw)
+27. [#27 K210 — Hand Detection using YOLO](https://youtu.be/GpduCxv9mh0)
+28. [#28 K210 — License Plate Recognition](https://youtu.be/FgRgQKPyHHM)
+29. [#29 K210 — Training and Running Your Own AI Model (CanMV IDE)](https://youtu.be/nSMJZauP-R0)
+
+
+
+
+
